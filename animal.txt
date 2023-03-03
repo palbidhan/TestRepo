@@ -2,3 +2,6 @@ Tiger
 Lion
 Fox
 Fish
+Bear
+Wolf
+Elephant
